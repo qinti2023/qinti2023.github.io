@@ -1,15 +1,12 @@
 [
   {
-    "listing": "/reference.html",
+    "listing": "/index.html",
     "items": [
+      "/posts/Life/post-with-code/index.html",
+      "/posts/Notes/post-with-code/index.html",
       "/posts/Reference/index.html",
+      "/posts/Life/welcome/index.html",
       "/posts/Reference/welcome/index.html"
-    ]
-  },
-  {
-    "listing": "/notes.html",
-    "items": [
-      "/posts/Notes/post-with-code/index.html"
     ]
   },
   {
@@ -20,12 +17,15 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/notes.html",
     "items": [
-      "/posts/Life/post-with-code/index.html",
-      "/posts/Notes/post-with-code/index.html",
+      "/posts/Notes/post-with-code/index.html"
+    ]
+  },
+  {
+    "listing": "/reference.html",
+    "items": [
       "/posts/Reference/index.html",
-      "/posts/Life/welcome/index.html",
       "/posts/Reference/welcome/index.html"
     ]
   }
