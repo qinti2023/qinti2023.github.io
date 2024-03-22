@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Welcome to my blog!",
     "section": "",
-    "text": "Hey! this is my personal website.\nHere, you’ll discover pages dedicated to Notes, where I share insights on decoding biological complexities and creating compelling visual narratives from data.\nBeyond the technical, this blog is a glimpse into my life - from personal adventures to reflections on the world.\nCurious to learn more about the face behind the words? Here’s some info about me.\nThanks for dropping by!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 1, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 1, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 1, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 27, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 27, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Hey! this is my personal website.\nHere, you’ll discover pages dedicated to Notes, where I share insights on decoding biological complexities and creating compelling visual narratives from data.\nBeyond the technical, this blog is a glimpse into my life - from personal adventures to reflections on the world.\nCurious to learn more about the face behind the words? Here’s some info about me.\nThanks for dropping by!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe molecular basis of translation initiation and its regulation in eukaryotes\n\n\n\n\n\n\nreview\n\n\n\n\n\n\n\n\n\nMar 5, 2024\n\n\nQin ti\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 1, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 1, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 1, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 27, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 27, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/Reference/welcome/index.html",
@@ -35,25 +35,18 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "posts/Notes/post-with-code/index.html",
-    "href": "posts/Notes/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/Reference/001/20240305.html",
+    "href": "posts/Reference/001/20240305.html",
+    "title": "The molecular basis of translation initiation and its regulation in eukaryotes",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Translation can be divided into four main stages: initiation, elongation, termination and ribosome recycling. Translation is controlled mainly during its initiation, a process which culminates in a ribosome positioned with an initiator tRNA over the start codon and, thus, ready to begin elongation of the protein chain.\n\nIntroduction"
   },
   {
-    "objectID": "posts/Life/post-with-code/index.html",
-    "href": "posts/Life/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/Life/welcome/index.html",
+    "href": "posts/Life/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "life.html",
-    "href": "life.html",
-    "title": "Life",
-    "section": "",
-    "text": "Add Life to your days, not days to your life.\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 1, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 27, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "notes.html",
@@ -63,11 +56,25 @@
     "text": "The best things come in small packages!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 1, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/Life/welcome/index.html",
-    "href": "posts/Life/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "life.html",
+    "href": "life.html",
+    "title": "Life",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Add Life to your days, not days to your life.\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 1, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 27, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Life/post-with-code/index.html",
+    "href": "posts/Life/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/Notes/post-with-code/index.html",
+    "href": "posts/Notes/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
   },
   {
     "objectID": "posts/Reference/index.html",
@@ -81,7 +88,7 @@
     "href": "reference.html",
     "title": "Life",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 1, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 27, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "The molecular basis of translation initiation and its regulation in eukaryotes\n\n\n\n\n\n\nreview\n\n\n\n\n\n\n\n\n\nMar 5, 2024\n\n\nQin ti\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 1, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 27, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "wechat.html",
